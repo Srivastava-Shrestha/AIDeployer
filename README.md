@@ -1,7 +1,5 @@
 # AIDeployer - Automated App Builder
 
----
-
 ## Overview
 
 **LLM Code Deployment** is an intelligent backend system that automates the process of building, deploying, and updating web applications from structured JSON requests.  
@@ -175,7 +173,7 @@ Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full det
 
 <div align="center">
   
-  ** Thankyou 🐻**
+  ** Thankyou 🐻 **
   
 </div>
 
