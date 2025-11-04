@@ -1,0 +1,38 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment & secrets
+.env
+*.env
+secrets.json
+config.json
+
+# Logs & temp files
+*.log
+*.tmp
+*.pid
+tmp/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local databases
+*.db
+*.sqlite3
+
+# Docker artifacts (if any local volumes or build cache)
+*.sock
+*.pid
+docker-data/
